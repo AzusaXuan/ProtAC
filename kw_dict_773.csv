@@ -1,0 +1,774 @@
+﻿kw,index
+Cycloheximide resistance,1
+3D-structure,2
+Ciliopathy,3
+Alternative splicing,4
+Fruit ripening,5
+Alternative initiation,6
+Fibrinogenolytic toxin,7
+Gastrulation,8
+Chromosomal rearrangement,9
+Growth arrest,10
+Plasmid,11
+Direct protein sequencing,12
+Host nucleus,13
+Host cytoplasm,14
+Antibiotic biosynthesis,15
+Neurotransmitter transport,16
+Neurodegeneration,17
+Restriction system,18
+Glutathionylation,19
+Lantibiotic,20
+Pyrrolidone carboxylic acid,21
+Collagen degradation,22
+Voltage-gated potassium channel impairing toxin,23
+Hemagglutinin,24
+Deafness,25
+Obesity,26
+Cadmium,27
+Vasodilator,28
+Copper transport,29
+Reference proteome,30
+Virulence,31
+Meiosis,32
+Voltage-gated calcium channel impairing toxin,33
+Flowering,34
+Toxin-antitoxin system,35
+Phosphoprotein,36
+Alkaloid metabolism,37
+Acetylation,38
+Sodium/potassium transport,39
+Blood coagulation cascade inhibiting toxin,40
+Bacteriocin,41
+Cell wall,42
+Ubl conjugation,43
+Thioether bond,44
+Protein phosphatase inhibitor,45
+Endoplasmic reticulum,46
+Osteogenesis,47
+Light-harvesting polypeptide,48
+IgG-binding protein,49
+Chitin-binding,50
+Nodulation,51
+Abscisic acid signaling pathway,52
+Serine protease homolog,53
+Platelet aggregation inhibiting toxin,54
+Presynaptic neurotoxin,55
+Vasoactive,56
+Detoxification,57
+Leader peptide,58
+Archaeal flagellum,59
+Lipid droplet,60
+Calcium channel impairing toxin,61
+Mannose-binding,62
+Coiled coil,63
+Apoptosis,64
+Immunity,65
+Cell adhesion,66
+Potassium channel impairing toxin,67
+Neurotoxin,68
+Necrosis,69
+Ethylene signaling pathway,70
+Fimbrium,71
+GPI-anchor biosynthesis,72
+Putrescine biosynthesis,73
+Glycoprotein,74
+Developmental protein,75
+Plant defense,76
+Differentiation,77
+Hydroxylation,78
+Activator,79
+Amidation,80
+Fungicide,81
+Mitosis,82
+Cilium biogenesis/degradation,83
+Isopeptide bond,84
+Nucleus,85
+Neurogenesis,86
+Antibiotic,87
+Innate immunity,88
+Transit peptide,89
+Flagellum,90
+Hemostasis impairing toxin,91
+Golgi apparatus,92
+Proto-oncogene,93
+GPI-anchor,94
+Growth regulation,95
+Allergen,96
+Postsynaptic neurotoxin,97
+Synaptosome,98
+Myotoxin,99
+Vitamin A,100
+Actin capping,101
+Antimicrobial,102
+Cytokinin signaling pathway,103
+Heparan sulfate,104
+Neuropeptide,105
+Retinol-binding,106
+Bacteriochlorophyll biosynthesis,107
+Host membrane,108
+Cellulose degradation,109
+Chitin degradation,110
+Lectin,111
+Cytoplasmic vesicle,112
+Mitochondrion,113
+Cilium,114
+Ubl conjugation pathway,115
+Lysosome,116
+Host cell membrane,117
+Myristate,118
+Knottin,119
+Acetylcholine receptor inhibiting toxin,120
+Spliceosome,121
+Motor protein,122
+Blood coagulation,123
+Hemostasis,124
+Antenna complex,125
+Secreted,126
+Cleavage on pair of basic residues,127
+Serine esterase,128
+Signal-anchor,129
+Apoplast,130
+Lipoprotein,131
+Vacuole,132
+Cytoskeleton,133
+Cell projection,134
+Target cell membrane,135
+Target membrane,136
+Protein transport,137
+mRNA splicing,138
+Hormone,139
+Symport,140
+Sugar transport,141
+Tumor suppressor,142
+Kinetochore,143
+Hypotensive agent,144
+Capsule biogenesis/degradation,145
+Palmitate,146
+Toxin,147
+Peroxisome,148
+Gamma-carboxyglutamic acid,149
+Dioxygenase,150
+Chromatin regulator,151
+Stress response,152
+Ion channel impairing toxin,153
+Microsome,154
+Voltage-gated sodium channel impairing toxin,155
+Collagen,156
+Acute phase,157
+Calcium/phospholipid-binding,158
+Sulfation,159
+Metalloenzyme inhibitor,160
+Metalloprotease inhibitor,161
+Glyoxylate bypass,162
+Flagellar rotation,163
+Disulfide bond,164
+Cell membrane,165
+Protease inhibitor,166
+Endosome,167
+Cytolysis,168
+Repressor,169
+Mitochondrion inner membrane,170
+Cell inner membrane,171
+Cell outer membrane,172
+Inflammatory response,173
+Transmembrane beta strand,174
+Adaptive immunity,175
+Tyrosine-protein kinase,176
+Ribosomal frameshifting,177
+Centromere,178
+ER-Golgi transport,179
+3Fe-4S,180
+Nitrogen fixation,181
+mRNA processing,182
+Behavior,183
+Zymogen,184
+Repeat,185
+Carboxypeptidase,186
+Immunoglobulin domain,187
+Mitochondrion outer membrane,188
+mRNA transport,189
+Transposable element,190
+Hemolysis,191
+Methylation,192
+S-nitrosylation,193
+Tight junction,194
+Antibiotic resistance,195
+Teichoic acid biosynthesis,196
+Aromatic hydrocarbons catabolism,197
+Copper,198
+Steroid metabolism,199
+Exocytosis,200
+SH3-binding,201
+Periplasm,202
+Carotenoid biosynthesis,203
+Bacterial microcompartment,204
+Cysteine biosynthesis,205
+Carbohydrate metabolism,206
+Glycosidase,207
+Transcription,208
+Transcription regulation,209
+Receptor,210
+Calcium,211
+Cytoplasm,212
+Lignin biosynthesis,213
+Transport,214
+Chloroplast,215
+Plastid,216
+EGF-like domain,217
+Cell cycle,218
+Amphibian defense peptide,219
+Cytokine,220
+ADP-ribosylation,221
+Chromosome,222
+Wnt signaling pathway,223
+Steroid biosynthesis,224
+Growth factor,225
+Intermediate filament,226
+Nickel,227
+Peptide transport,228
+Amyloid,229
+Sporulation,230
+Keratinization,231
+Bacterial flagellum biogenesis,232
+Hydrolase,233
+Polysaccharide degradation,234
+Signal,235
+Membrane,236
+NADP,237
+Manganese,238
+Serine protease inhibitor,239
+FAD,240
+Synapse,241
+Spermatogenesis,242
+Defensin,243
+Chemotaxis,244
+Lipid metabolism,245
+Lipid degradation,246
+Iron storage,247
+GTPase activation,248
+Biological rhythms,249
+Prenylation,250
+Iron transport,251
+Muscle protein,252
+Exosome,253
+Vitamin C,254
+Digestion,255
+Nickel insertion,256
+NAD,257
+Metal-binding,258
+Protease,259
+Transmembrane,260
+Transmembrane helix,261
+Zinc,262
+Oxidoreductase,263
+Cell junction,264
+Magnesium,265
+Nuclease,266
+Flavoprotein,267
+Cell division,268
+DNA-binding,269
+Isomerase,270
+Zinc-finger,271
+Translocation,272
+DNA-directed DNA polymerase,273
+Allosteric enzyme,274
+VLDL,275
+Endocytosis,276
+Antiport,277
+Antioxidant,278
+Redox-active center,279
+Calmodulin-binding,280
+Chaperone,281
+Hydrogen peroxide,282
+DNA condensation,283
+Proteoglycan,284
+Chromosome partition,285
+Cobalamin biosynthesis,286
+Vision,287
+Sterol biosynthesis,288
+Arginine metabolism,289
+Phosphonate transport,290
+Cell wall biogenesis/degradation,291
+Iron,292
+Transferase,293
+Sensory transduction,294
+Lipid-binding,295
+Ion channel,296
+Ion transport,297
+Multifunctional enzyme,298
+Endonuclease,299
+Glycosyltransferase,300
+Lyase,301
+Translation regulation,302
+2Fe-2S,303
+FMN,304
+Dermonecrotic toxin,305
+Extracellular matrix,306
+HDL,307
+Heparin-binding,308
+Potassium transport,309
+DNA damage,310
+DNA repair,311
+Autophagy,312
+DNA replication,313
+rRNA processing,314
+Glycolysis,315
+Protein phosphatase,316
+Ribosome biogenesis,317
+Cobalt,318
+Seed storage protein,319
+Storage protein,320
+Microtubule,321
+Spermidine biosynthesis,322
+Molybdenum,323
+Cholesterol metabolism,324
+Porin,325
+Nematocyst,326
+Leucine-rich repeat,327
+Actin-binding,328
+Polyamine biosynthesis,329
+Electron transport,330
+Ubiquinone,331
+Galactose metabolism,332
+Lysine biosynthesis,333
+Thylakoid,334
+Transcription termination,335
+Photosynthesis,336
+Arginine biosynthesis,337
+Bacterial flagellum,338
+Phosphotransferase system,339
+SOS response,340
+Chlorophyll biosynthesis,341
+Immunoglobulin,342
+Photosystem I,343
+ATP-binding,344
+GTP-binding,345
+Iron-sulfur,346
+Methyltransferase,347
+Nucleotide-binding,348
+Nucleotidyltransferase,349
+RNA-binding,350
+S-adenosyl-L-methionine,351
+Serine protease,352
+Olfaction,353
+Transducer,354
+Autocatalytic cleavage,355
+Kinase,356
+TPR repeat,357
+Amino-acid biosynthesis,358
+Isoprene biosynthesis,359
+Initiation factor,360
+Protein biosynthesis,361
+Metalloprotease,362
+Monooxygenase,363
+Acyltransferase,364
+Tricarboxylic acid cycle,365
+Ligase,366
+Exonuclease,367
+Glucose metabolism,368
+Aspartyl protease,369
+DNA recombination,370
+Fatty acid biosynthesis,371
+Fatty acid metabolism,372
+Lipid biosynthesis,373
+Lipid transport,374
+Sodium,375
+Translocase,376
+Potassium,377
+Sodium transport,378
+Thiol protease,379
+Glutamine amidotransferase,380
+Pyruvate,381
+Two-component regulatory system,382
+Peroxidase,383
+Menaquinone biosynthesis,384
+Lipopolysaccharide biosynthesis,385
+Nucleotide metabolism,386
+tRNA processing,387
+tRNA-binding,388
+WD repeat,389
+Pyridoxal phosphate,390
+Phospholipid biosynthesis,391
+Phospholipid metabolism,392
+DNA-directed RNA polymerase,393
+Branched-chain amino acid biosynthesis,394
+Schiff base,395
+Amino-acid transport,396
+Pyrimidine biosynthesis,397
+Hydrogen ion transport,398
+Thiamine biosynthesis,399
+Glycerol metabolism,400
+Porphyrin biosynthesis,401
+Pantothenate biosynthesis,402
+Methionine biosynthesis,403
+One-carbon metabolism,404
+Biotin biosynthesis,405
+Quinone,406
+Purine biosynthesis,407
+Respiratory chain,408
+Oxygen transport,409
+Coenzyme A biosynthesis,410
+Keratin,411
+Diaminopimelate biosynthesis,412
+Pyridoxine biosynthesis,413
+Cytochrome c-type biogenesis,414
+4Fe-4S,415
+Helicase,416
+mRNA capping,417
+Virus entry into host cell,418
+Fertilization,419
+Unfolded protein response,420
+Aromatic amino acid biosynthesis,421
+Serine/threonine-protein kinase,422
+Phosphopantetheine,423
+Decarboxylase,424
+Heme,425
+G-protein coupled receptor impairing toxin,426
+Lignin degradation,427
+Antiviral defense,428
+IgE-binding protein,429
+Nuclear pore complex,430
+Cell adhesion impairing toxin,431
+DNA integration,432
+Transposition,433
+Viral release from host cell,434
+CBS domain,435
+ANK repeat,436
+Nucleosome core,437
+Chylomicron,438
+Oxidation,439
+Thiamine pyrophosphate,440
+Guanine-nucleotide releasing factor,441
+Myogenesis,442
+Gap junction,443
+SH3 domain,444
+Angiogenesis,445
+Zinc transport,446
+Chloride,447
+Topoisomerase,448
+Peptidoglycan-anchor,449
+Cell shape,450
+Peptidoglycan synthesis,451
+Biotin,452
+Queuosine biosynthesis,453
+Amyloplast,454
+Sexual differentiation,455
+Sphingolipid metabolism,456
+Calcium channel,457
+Calcium transport,458
+Nonsense-mediated mRNA decay,459
+Telomere,460
+Proline biosynthesis,461
+D-amino acid,462
+Aminopeptidase,463
+Bromination,464
+Catecholamine metabolism,465
+Hearing,466
+Neurotransmitter degradation,467
+Gluconeogenesis,468
+Ligand-gated ion channel,469
+Postsynaptic cell membrane,470
+Thiol protease inhibitor,471
+Biomineralization,472
+Nitrate assimilation,473
+Dynein,474
+Sterol metabolism,475
+Kelch repeat,476
+G-protein coupled receptor,477
+Conjugation,478
+Gibberellin signaling pathway,479
+Jasmonic acid signaling pathway,480
+Selenium,481
+Nitration,482
+Phenylalanine catabolism,483
+Protein synthesis inhibitor,484
+cGMP,485
+Phenylalanine biosynthesis,486
+SH2 domain,487
+Ribonucleoprotein,488
+Protein kinase inhibitor,489
+Isoleucine biosynthesis,490
+Voltage-gated channel,491
+RNA-mediated gene silencing,492
+Sigma factor,493
+Purine salvage,494
+Aminotransferase,495
+Glycogen biosynthesis,496
+Glycogen metabolism,497
+Prostaglandin biosynthesis,498
+Prostaglandin metabolism,499
+Molybdenum cofactor biosynthesis,500
+Homeobox,501
+Basement membrane,502
+Purine metabolism,503
+Sarcoplasmic reticulum,504
+Phospholipase A2 inhibitor,505
+Viral genome integration,506
+LIM domain,507
+Eye lens protein,508
+Sodium channel,509
+Coated pit,510
+Sushi,511
+Signal transduction inhibitor,512
+Alternative promoter usage,513
+Chondrogenesis,514
+Oogenesis,515
+Arabinose catabolism,516
+Leukotriene biosynthesis,517
+Aminoacyl-tRNA synthetase,518
+Signalosome,519
+Notch signaling pathway,520
+Plastid inner membrane,521
+Fibrinolytic toxin,522
+B-cell activation,523
+Cellulose biosynthesis,524
+Chromoplast,525
+Auxin signaling pathway,526
+Melatonin biosynthesis,527
+DNA synthesis,528
+Erythrocyte maturation,529
+Hemorrhagic toxin,530
+Chloride channel,531
+Phosphate transport,532
+Mitochondrion nucleoid,533
+Growth factor binding,534
+Annexin,535
+Taste,536
+Dipeptidase,537
+Proteasome,538
+Threonine protease,539
+Cobalamin,540
+Potassium channel,541
+Glutathione biosynthesis,542
+Calvin cycle,543
+Heme biosynthesis,544
+Melanin biosynthesis,545
+Myosin,546
+Steroid-binding,547
+Cholesterol biosynthesis,548
+RNA editing,549
+Elongation factor,550
+Cuticle,551
+Chromophore,552
+Citrullination,553
+Bacteriolytic enzyme,554
+Xylan degradation,555
+Morphogen,556
+Segmentation polarity protein,557
+Tryptophan catabolism,558
+Prion,559
+Primosome,560
+Calcium-activated potassium channel impairing toxin,561
+cAMP,562
+Thyroid hormone,563
+cAMP-binding,564
+Glyoxysome,565
+Merozoite,566
+MHC I,567
+Malaria,568
+Antifreeze protein,569
+Chlorophyll,570
+Photosystem II,571
+Prenyltransferase,572
+Ubiquinone biosynthesis,573
+Kringle,574
+Histidine biosynthesis,575
+Xylose metabolism,576
+Septation,577
+Cobalt transport,578
+Pheromone response,579
+Aspartyl esterase,580
+Sialic acid,581
+Ribosomal protein,582
+Cardiotoxin,583
+Glycosome,584
+Urea cycle,585
+GMP biosynthesis,586
+LDL,587
+Folate-binding,588
+Methanogenesis,589
+Riboflavin biosynthesis,590
+Nickel transport,591
+Lipoyl,592
+Peroxisome biogenesis,593
+Luminescence,594
+Photoprotein,595
+Paired box,596
+Rotamase,597
+rRNA-binding,598
+Pyridine nucleotide biosynthesis,599
+Folate biosynthesis,600
+Whooping cough,601
+Tyrosine catabolism,602
+Mitogen,603
+Complement pathway,604
+Cyclin,605
+Photoreceptor protein,606
+Retinal protein,607
+Pheromone-binding,608
+Nucleotide biosynthesis,609
+Mast cell degranulation,610
+Carbon dioxide fixation,611
+Photorespiration,612
+Serine biosynthesis,613
+Cytokinin biosynthesis,614
+DNA replication inhibitor,615
+Conidiation,616
+Hyaluronic acid,617
+Neuronal ceroid lipofuscinosis,618
+Tumor antigen,619
+Deoxyribonucleotide synthesis,620
+Oxylipin biosynthesis,621
+Flavonoid biosynthesis,622
+Signal recognition particle,623
+Pathogenesis-related protein,624
+Tryptophan biosynthesis,625
+Threonine biosynthesis,626
+RNA repair,627
+Herbicide resistance,628
+Steroidogenesis,629
+Endorphin,630
+Neurotransmitter,631
+Opioid peptide,632
+Oncogene,633
+ERV,634
+Proline metabolism,635
+Pyrogen,636
+Lithium,637
+Sulfate transport,638
+Plasmid copy control,639
+DNA excision,640
+Fucose metabolism,641
+Lipid A biosynthesis,642
+Complement activation lectin pathway,643
+Carboxysome,644
+Catecholamine biosynthesis,645
+Histidine metabolism,646
+Organic radical,647
+Gluconate utilization,648
+Pentose shunt,649
+TTQ,650
+Methotrexate resistance,651
+Trimethoprim resistance,652
+Mercuric resistance,653
+Mercury,654
+Formylation,655
+Milk protein,656
+Host cell lysis by virus,657
+Hemoglobin-binding,658
+Tissue remodeling,659
+Plasminogen activation,660
+ATP synthesis,661
+CF(1),662
+CF(0),663
+Asparagine biosynthesis,664
+Vasoconstrictor,665
+Aspartic protease inhibitor,666
+Lactation,667
+Enterotoxin,668
+T cell receptor,669
+MHC II,670
+Vitamin D,671
+Metal-thiolate cluster,672
+Sporozoite,673
+Bacteriocin transport,674
+Terminal addition,675
+SOS mutagenesis,676
+Transcription antitermination,677
+Gap protein,678
+Glycolate pathway,679
+Bacteriochlorophyll,680
+Reaction center,681
+Branched-chain amino acid catabolism,682
+Leucine biosynthesis,683
+Ascorbate biosynthesis,684
+Ionotropic glutamate receptor inhibitor,685
+Alginate biosynthesis,686
+Gaseous exchange,687
+Surface film,688
+Mutator protein,689
+Arsenical resistance,690
+Pregnancy,691
+Rhamnose metabolism,692
+Tetrahydrobiopterin biosynthesis,693
+Serotonin biosynthesis,694
+Glutamate biosynthesis,695
+Superantigen,696
+Excision nuclease,697
+Quorum sensing,698
+Enterobactin biosynthesis,699
+c-di-GMP,700
+Inositol biosynthesis,701
+Hypersensitive response elicitation,702
+Ethylene biosynthesis,703
+Hypusine,704
+Fimbrium biogenesis,705
+Cytosine metabolism,706
+Ammonia transport,707
+Bacterial flagellum protein export,708
+Galactitol metabolism,709
+Acetoin catabolism,710
+Hypusine biosynthesis,711
+Ryanodine-sensitive calcium-release channel impairing toxin,712
+Exopolysaccharide synthesis,713
+Phycobilisome,714
+Self-incompatibility,715
+Plastoquinone,716
+Magnetosome,717
+Coenzyme M biosynthesis,718
+Crown gall tumor,719
+Polysaccharide transport,720
+Hydrogenosome,721
+PQQ biosynthesis,722
+Autoinducer synthesis,723
+Bile pigment,724
+Taste-modifying protein,725
+Trypanosomiasis,726
+Quinate metabolism,727
+Gas vesicle,728
+Citrate utilization,729
+Chlorosome,730
+Lactose metabolism,731
+Activation of host autophagy by virus,732
+Host endoplasmic reticulum,733
+Host-virus interaction,734
+Inhibition of host innate immune response by virus,735
+Inhibition of host interferon signaling pathway by virus,736
+Inhibition of host STAT1 by virus,737
+Inhibition of host STAT2 by virus,738
+RNA-directed RNA polymerase,739
+Suppressor of RNA silencing,740
+Viral envelope protein,741
+Viral immunoevasion,742
+Viral penetration into host cytoplasm,743
+Viral RNA replication,744
+Host G2/M cell cycle arrest by virus,745
+Inhibition of host TLR pathway by virus,746
+RNA-directed DNA polymerase,747
+Phagocytosis,748
+cGMP biosynthesis,749
+Disease variant,750
+cGMP-binding,751
+Inhibition of host autophagy by virus,752
+Viral ion channel,753
+Host endosome,754
+Host mitochondrion,755
+Host mRNA suppression by virus,756
+Covalent protein-DNA linkage,757
+Viral DNA replication,758
+Early protein,759
+cAMP biosynthesis,760
+Decay of host mRNAs by virus,761
+G1/S host cell cycle checkpoint dysregulation by virus,762
+Schizophrenia,763
+Parkinson disease,764
+Parkinsonism,765
+Protein splicing,766
+Inhibition of host JAK1 by virus,767
+G0/G1 host cell cycle checkpoint dysregulation by virus,768
+Viral exotoxin,769
+Mitosome,770
+Bacteriocin biosynthesis,771
+Bacterial host transcription shutoff by virus,772
+Inhibition of host DNA replication by virus,773
