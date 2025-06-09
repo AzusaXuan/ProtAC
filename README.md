@@ -77,7 +77,7 @@ torchrun --nproc_per_node=<number_of_gpus> data_clean_main.py --mode <task_type:
 torchrun --nproc_per_node=<number_of_gpus> data_clean_main.py --mode eval
 ~~~
 
-
+For downstream task 2 and 3, we mainly use the code from [ProtST](https://github.com/DeepGraphLearning/ProtST).
 
 ### Downstream task2: GO prediction (MF, BP, CC)
 
