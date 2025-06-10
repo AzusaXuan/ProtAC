@@ -1,0 +1,48 @@
+output_dir: path/to/output_dir
+checkpoint: path/to/checkpoint
+dataset:
+  class: GeneOntology # td_datasets.EnzymeCommission / GeneOntology
+  path: ~/datasets/protst-datasets
+  branch: {{ branch }} # EC: null; GO_MF: MF; GO_CC: CC; GO_BP: BP
+  test_cutoff: 0.95
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: ProteinView
+        view: residue
+      - class: TruncateProtein
+        max_length: 550
+
+task:
+  class: MultipleBinaryClassification
+  model:
+    class: PretrainESM
+    path: path/to/esm-model-weights/
+    model: ESM-2-650M
+    mask_modeling: False
+    output_dim: 512
+    readout: mean
+    use_proj: True
+  criterion: bce
+  metric: [ 'auprc@micro', 'f1_max' ]
+  num_mlp_layer: 2
+
+optimizer:
+  class: AdamW
+  lr: 1e-4
+
+engine:
+  gpus: [1] # [4, 5, 6, 7]
+  batch_size: 16
+  log_interval: 1000
+
+lr_ratio: 0.1
+
+eval_metric: f1_max
+
+train:
+  num_epoch: 200
+
+fix_encoder: False
