@@ -1165,8 +1165,8 @@ if __name__ == '__main__':
 
     ## system settings
     parser.add_argument('--use_wandb', default=False, type=bool)
-    parser.add_argument('--wandb_project_name', default='proteinblip-cleaning-esm-2024-new', type=str,
-                        help='wandb project name')  # problip-downstream
+    parser.add_argument('--wandb_project_name', default='protac-cleaning', type=str,
+                        help='wandb project name')
     parser.add_argument('--device', default='cuda')
     parser.add_argument('--device_id', default=[0, 1], type=list)
     parser.add_argument('--distributed', default=True, type=bool)
