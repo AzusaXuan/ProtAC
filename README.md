@@ -15,7 +15,7 @@ We achieve
 
 1. a state-of-the-art (SOTA) model that outperforms competitors under diverse parametric levels, evaluated on multiple function-related downstream tasks
 
-2. a cleaned UniRef50 dataset containing $\sim$50M proteins with well-annotated functions
+2. a cleaned UniRef50 dataset containing ~50M proteins with well-annotated functions
 
 and demonstrate that 
 
